@@ -1,6 +1,6 @@
 ﻿# real-world-git-commands-guide
 
-<h1> **Overview** </h1>
+<h1> Overview </h1>
 
 This repository is a simple and practical Git guide —
 built to serve as a ready reference for developers, freelancers, and teams working on real-world projects.
