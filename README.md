@@ -11,7 +11,7 @@ this guide focuses on when, why, and how to use Git commands effectively.
 Whether you're managing client work, contributing to open-source, or working on business apps —
 this guide will help you confidently navigate Git workflows.
 
-
+---
 
 
 What's Inside
@@ -34,7 +34,7 @@ Practical use of worktrees, submodules, and more
 
 Real-world tips for freelance, team, and business projects
 
-
+---
 
 
 
